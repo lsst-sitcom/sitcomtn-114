@@ -77,7 +77,7 @@ Look-Up Table Tests
 | Verification of Hexapods LUT using Laser Tracker (LUTT-001)| Ongoing          | https://sitcomtn-089.lsst.io/           |
 +------------------------------------------------------------+------------------+-----------------------------------------+
 | Verification of Hexapods LUT using the wavefront sensing   | Pending          | Pending                                 |
-| capabilities (LUTT-002)                                    |                  |                                         |
+| capabilities  (LUTT-002)                                   |                  |                                         |
 +------------------------------------------------------------+------------------+-----------------------------------------+
 | Look-Up Table Elevation Residual Validation Test (LUTT-003)| Pending          | Pending                                 |
 +------------------------------------------------------------+------------------+-----------------------------------------+
