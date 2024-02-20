@@ -15,31 +15,29 @@ Wavefront Estimation Tests
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
 | Test Name                                                      | Status                         | Link                          |
 +================================================================+================================+===============================+
-|| Optical State Measurement Verification Test                   || Ongoing (LSSTCam, ComCam)     ||https://sitcomtn-104.lsst.io/ |
-|| (WET-001)                                                     ||                               ||                              |
+| Optical State Measurement Verification Test                    | Ongoing (LSSTCam, ComCam)      | https://sitcomtn-104.lsst.io/ |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
-| Donut Characterization Test (WET-002)                          | Pending                        | TBD                           |
+| Donut Characterization Test (WET-002)                          | Pending                        | Pending                       |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
-| Donut Vignetting Test (WET-003)                                | Pending                        | TBD                           |
+| Donut Vignetting Test (WET-003)                                | Pending                        | Pending                       |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
-| Donut Deblending Test (WET-004)                                | Pending                        | TBD                           |
+| Donut Deblending Test (WET-004)                                | Pending                        | Pending                       |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
-| Giant Donut Test (WET-005)                                     | Pending                        | TBD                           |
+| Giant Donut Test (WET-005)                                     | Pending                        | Pending                       |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
-| Pairing vs. Stacking Test (WET-006)                            | Pending                        | TBD                           |
+| Pairing vs. Stacking Test (WET-006)                            | Pending                        | Pending                       |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
-| Comparison CWFS versus Other Approaches (WET-007)              | LSSTCam                        | https://sitcomtn-113.lsst.io/ |
+| Comparison CWFS versus Other Approaches (WET-007)              | Ongoing (LSSTCam)              | https://sitcomtn-113.lsst.io/ |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
-| Pending                                                        | TBD                            |                               |
+| Wavefront Estimation Chromaticity Test (WET-008)               | Pending                        |                               |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
-| Wavefront Estimation Science Raft Interpolation Test (WET-009) | Pending                        | TBD                           |
+| Wavefront Estimation Science Raft Interpolation Test (WET-009) | Pending                        | Pending                       |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
-| Reference Wavefront Generation (WET-010)                       | Pending                        | TBD                           |
+| Reference Wavefront Generation (WET-010)                       | Pending                        | Pending                       |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
-|| Non-common path aberrations measurements                      || Pending                       || TBD                          |
-|| (WET-011)                                                     ||                               ||                              |
+| Non-common path aberrations measurements                       | Pending                        | Pending                       |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
-| WEP Rejection and Robustness (WET-012)                         | Pending                        | TBD                           |
+| WEP Rejection and Robustness (WET-012)                         | Pending                        | Pending                       |
 +----------------------------------------------------------------+--------------------------------+-------------------------------+
 
 Alignment, Systematics, and Basic Control Tests,
